@@ -24,7 +24,8 @@ Hand
 Player 1
 Player 2
 Winner
-1
+
+1.
  
 5H 5C 6S 7S KD
 Pair of Fives
@@ -33,7 +34,8 @@ Pair of Fives
 Pair of Eights
  
 Player 2
-2
+
+2.
  
 5D 8C 9S JS AC
 Highest card Ace
@@ -42,7 +44,8 @@ Highest card Ace
 Highest card Queen
  
 Player 1
-3
+
+3.
  
 2D 9C AS AH AC
 Three Aces
@@ -51,7 +54,8 @@ Three Aces
 Flush with Diamonds
  
 Player 2
-4
+
+4.
  
 4D 6S 9H QH QC
 Pair of Queens
@@ -62,7 +66,8 @@ Pair of Queens
 Highest card Seven
  
 Player 1
-5
+
+5.
  
 2H 2D 4C 4D 4S
 Full House
@@ -80,7 +85,3 @@ Each line of the file contains ten cards (separated by a single space): the firs
 1's cards and the last five are Player 2's cards. You can assume that all hands are valid (no 
 invalid characters or repeated cards), each player's hand is in no specific order, and in each hand 
 there is a clear winner.
- 
- 
-The challenge this month is to write a program that reads in the contents of the text file and 
-determines how many games player 1 wins.
